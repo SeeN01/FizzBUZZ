@@ -1,5 +1,6 @@
 ﻿#include <iostream>
 
+// ярик лох
 
 using namespace std;
 int main()
